@@ -1,11 +1,11 @@
-# 🚀 AI and Data Science Playground
+# AI and Data Science Playground
 
 Welcome to **AI and Data Science Playground**, a curated collection of **30+ end-to-end projects** across **Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Generative AI (GenAI), and Data Science**.  
 This repository is designed to showcase **hands-on experimentation, problem-solving, and practical applications** in AI and Data Science.
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 This repository serves as a **comprehensive portfolio** of AI and Data Science projects, covering the entire workflow from data collection to modeling and insights.  
 Each project is structured to include:
@@ -18,7 +18,7 @@ Each project is structured to include:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Programming Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, NLTK, spaCy, Hugging Face Transformers and many more!
@@ -27,7 +27,7 @@ Each project is structured to include:
 
 ---
 
-## 📂 Project Organization
+##  Project Organization
 
 Projects in this repository are organized by **domain/category**, making it easy to navigate:
 
@@ -43,7 +43,7 @@ Projects in this repository are organized by **domain/category**, making it easy
 
 ---
 
-## ⚡ How to Use This Repository
+## How to Use This Repository
 
 1. **Clone the repository**  
 
